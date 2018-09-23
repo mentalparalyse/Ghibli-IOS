@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Nuke (7.3.2)
+  - ObjectMapper (3.3.0)
+  - RxCocoa (4.3.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - Nuke
+  - ObjectMapper (~> 3.3)
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Nuke
+    - ObjectMapper
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Nuke: a9a31bbd6c6723753ab024ef22057dcaaf046c1b
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  RxCocoa: 71b9cce833fbcb89a8eec11816dd225830c2bd3c
+  RxSwift: a9717a34df3179fe63563f76e046ad345078dd3a
+
+PODFILE CHECKSUM: 9b155ad3b84723b95cddfcb22459f468387a3490
+
+COCOAPODS: 1.5.3
